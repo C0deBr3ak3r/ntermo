@@ -1,0 +1,1287 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="1379"
+   height="458.66043"
+   viewBox="0 0 1379 458.66043"
+   id="svg132"
+   sodipodi:docname="controller-score.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   style="background: transparent; background-color: transparent; color-scheme: light dark;"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="8.092657"
+     inkscape:cx="396.03804"
+     inkscape:cy="435.3947"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g130" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch1"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="marker25"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path25" />
+    </marker>
+    <linearGradient
+       id="swatch17"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop17" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <style
+       id="style1">
+		.color_fill {
+			fill: #000000;
+			stroke: #000000;
+		}
+		.color_stroke {
+			stroke: #000000;
+		}
+		@media (prefers-color-scheme: dark) {
+			.color_fill {
+				fill: #ffffff;
+				stroke: #ffffff;
+			}
+			.color_stroke {
+				stroke: #ffffff;
+			}
+		}
+	</style>
+  </defs>
+  <g
+     id="g132"
+     transform="translate(-6.820103,7.6679902)">
+    <g
+       data-cell-id="0"
+       id="g131"
+       transform="translate(70.669301,2.4091807)">
+      <g
+         data-cell-id="1"
+         id="g130">
+        <g
+           data-cell-id="YChXWHXjWFrbvS4YKcb_-10"
+           id="g3"
+           transform="matrix(0.94350458,0,0,1.0053804,-51.224304,-19.265481)">
+          <g
+             transform="translate(0.5,0.5)"
+             id="g2">
+            <path
+               d="M 169,66 H 358.63"
+               fill="none"
+               class="color_stroke"
+               stroke-miterlimit="10"
+               pointer-events="stroke"
+               id="path1" />
+            <path
+               d="m 363.88,66 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
+               class="color_fill"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path2" />
+          </g>
+        </g>
+        <g
+           data-cell-id="W6kexp7J-JhnAO8r58sS-4"
+           id="g7"
+           transform="matrix(0.89523258,0,0,1.0331029,-55.746233,-27.609888)">
+          <g
+             transform="translate(0.5,0.5)"
+             id="g4">
+            <rect
+               x="79"
+               y="141"
+               width="100"
+               height="80"
+               fill="none"
+               class="color_stroke"
+               pointer-events="all"
+               id="rect3" />
+          </g>
+        </g>
+        <text
+           xml:space="preserve"
+           class="color_fill"
+           style="font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';writing-mode:lr-tb;direction:ltr;fill-opacity:1;stroke-width:1;stroke-linejoin:round;stroke-opacity:1"
+           x="20.475443"
+           y="122.27986"
+           id="text37-2"
+           transform="scale(0.92718553,1.0785328)"
+           inkscape:label="reset-table"><tspan
+             sodipodi:role="line"
+             id="tspan37-6"
+             x="20.475443"
+             y="122.27986"
+             style="stroke-width:1">H0_ENABLE = 0</tspan><tspan
+             sodipodi:role="line"
+             x="20.475443"
+             y="137.27986"
+             id="tspan38-1"
+             style="stroke-width:1">H1_ENABLE = 0</tspan><tspan
+             sodipodi:role="line"
+             x="20.475443"
+             y="152.27986"
+             id="tspan39-8"
+             style="stroke-width:1">H2_ENABLE = 0</tspan><tspan
+             sodipodi:role="line"
+             x="20.475443"
+             y="167.27986"
+             id="tspan40-7"
+             style="stroke-width:1">H_SELECT = 00</tspan><tspan
+             sodipodi:role="line"
+             x="20.475443"
+             y="182.27986"
+             id="tspan41-92"
+             style="stroke-width:1">N_SELECT = 01</tspan><tspan
+             sodipodi:role="line"
+             x="20.475443"
+             y="197.27986"
+             id="tspan42-0"
+             style="stroke-width:1" /></text>
+        <g
+           data-cell-id="W6kexp7J-JhnAO8r58sS-13"
+           id="g11"
+           transform="translate(-71.849198,-18.907684)"
+           inkscape:label="compare-n2-state">
+          <g
+             transform="translate(0.5,0.5)"
+             id="g8">
+            <ellipse
+               cx="415"
+               cy="90"
+               rx="60"
+               ry="40"
+               fill="transparent"
+               class="color_stroke"
+               pointer-events="all"
+               id="ellipse7"
+               style="fill:none" />
+          </g>
+          <text
+             xml:space="preserve"
+             class="color_fill"
+             style="font-weight:bold;font-size:14px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';writing-mode:lr-tb;direction:ltr;stroke-linejoin:round;stroke-opacity:1"
+             x="368.95737"
+             y="95.199471"
+             id="text36-59"><tspan
+               sodipodi:role="line"
+               id="tspan36-2"
+               x="368.95737"
+               y="95.199471"
+               style="fill-opacity:1">COMPARE N2</tspan></text>
+        </g>
+        <g
+           data-cell-id="G5VNRWEEcDZbfrEF6txf-6"
+           id="g13"
+           transform="translate(-71.849198,-18.907684)">
+          <g
+             transform="translate(0.5,0.5)"
+             id="g12">
+            <path
+               d="m 966,91 h 355 v 187.63"
+               fill="none"
+               class="color_stroke"
+               stroke-miterlimit="10"
+               pointer-events="stroke"
+               id="path11" />
+            <path
+               d="m 1321,283.88 -3.5,-7 3.5,1.75 3.5,-1.75 z"
+               class="color_fill"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path12" />
+          </g>
+        </g>
+        <g
+           data-cell-id="W6kexp7J-JhnAO8r58sS-18"
+           id="g17"
+           transform="translate(-71.849198,-18.907684)"
+           inkscape:label="compare-n1-state">
+          <g
+             transform="translate(0.5,0.5)"
+             id="g14">
+            <ellipse
+               cx="906"
+               cy="91"
+               rx="60"
+               ry="40"
+               fill="transparent"
+               class="color_stroke"
+               pointer-events="all"
+               id="ellipse13"
+               style="fill:none" />
+          </g>
+          <text
+             xml:space="preserve"
+             class="color_fill"
+             style="font-weight:bold;font-size:14px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';writing-mode:lr-tb;direction:ltr;fill-opacity:1;stroke-linejoin:round;stroke-opacity:1"
+             x="860.84564"
+             y="95.937393"
+             id="text43"><tspan
+               sodipodi:role="line"
+               id="tspan43"
+               x="860.84564"
+               y="95.937393">COMPARE  N1</tspan></text>
+        </g>
+        <g
+           data-cell-id="G5VNRWEEcDZbfrEF6txf-9"
+           id="g19"
+           transform="matrix(0.76265917,0,0,1.024596,230.8204,-26.218101)">
+          <g
+             transform="translate(0.5,0.5)"
+             id="g18">
+            <path
+               d="M 1275.04,296.72 H 463.79"
+               fill="none"
+               class="color_stroke"
+               stroke-miterlimit="10"
+               pointer-events="stroke"
+               id="path17" />
+            <path
+               d="m 458.54,296.72 7,-3.5 -1.75,3.5 1.75,3.5 z"
+               class="color_fill"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path18" />
+          </g>
+        </g>
+        <g
+           data-cell-id="G5VNRWEEcDZbfrEF6txf-11"
+           id="g21"
+           transform="matrix(0.7585737,0,0,1.025057,236.03065,-27.772354)">
+          <g
+             transform="translate(0.5,0.5)"
+             id="g20">
+            <path
+               d="M 1275.04,353.28 H 463.79"
+               fill="none"
+               class="color_stroke"
+               stroke-miterlimit="10"
+               pointer-events="stroke"
+               id="path19" />
+            <path
+               d="m 458.54,353.28 7,-3.5 -1.75,3.5 1.75,3.5 z"
+               class="color_fill"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path20" />
+          </g>
+        </g>
+        <g
+           data-cell-id="G5VNRWEEcDZbfrEF6txf-12"
+           id="g23"
+           transform="matrix(0.74992303,0,0,1.0259309,242.29614,-27.348202)">
+          <g
+             transform="translate(0.5,0.5)"
+             id="g22">
+            <path
+               d="M 1256,325 H 481.37"
+               fill="none"
+               class="color_stroke"
+               stroke-miterlimit="10"
+               pointer-events="stroke"
+               id="path21" />
+            <path
+               d="m 476.12,325 7,-3.5 -1.75,3.5 1.75,3.5 z"
+               class="color_fill"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path22" />
+          </g>
+        </g>
+        <g
+           data-cell-id="W6kexp7J-JhnAO8r58sS-24"
+           id="g27"
+           transform="translate(-71.849198,-18.907684)">
+          <g
+             transform="translate(0.5,0.5)"
+             id="g24"
+             style="fill:none">
+            <ellipse
+               cx="1321"
+               cy="325"
+               rx="65"
+               ry="40"
+               fill="transparent"
+               class="color_stroke"
+               pointer-events="all"
+               id="ellipse23"
+               style="fill:none" />
+          </g>
+        </g>
+        <g
+           data-cell-id="pIxQzOpFLBZEX0-ZQmBf-1"
+           id="g29"
+           transform="translate(-71.849198,-18.907684)">
+          <g
+             transform="translate(0.5,0.5)"
+             id="g28">
+            <path
+               d="M 457.43,61.72 857.21,62.7"
+               fill="none"
+               class="color_stroke"
+               stroke-miterlimit="10"
+               pointer-events="stroke"
+               id="path27" />
+            <path
+               d="m 862.46,62.71 -7.01,3.49 1.76,-3.5 -1.75,-3.5 z"
+               class="color_fill"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path28" />
+          </g>
+        </g>
+        <g
+           data-cell-id="pIxQzOpFLBZEX0-ZQmBf-4"
+           id="g31"
+           transform="translate(-71.849198,-18.907684)">
+          <g
+             transform="translate(0.5,0.5)"
+             id="g30">
+            <path
+               d="m 475,90 364.63,0.98"
+               fill="none"
+               class="color_stroke"
+               stroke-miterlimit="10"
+               pointer-events="stroke"
+               id="path29" />
+            <path
+               d="m 844.88,91 -7.01,3.48 1.76,-3.5 -1.74,-3.5 z"
+               class="color_fill"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path30" />
+          </g>
+        </g>
+        <g
+           data-cell-id="pIxQzOpFLBZEX0-ZQmBf-6"
+           id="g33"
+           transform="translate(-71.849198,-18.907684)">
+          <g
+             transform="translate(0.5,0.5)"
+             id="g32">
+            <path
+               d="m 457.43,118.28 399.78,0.99"
+               fill="none"
+               class="color_stroke"
+               stroke-miterlimit="10"
+               pointer-events="stroke"
+               id="path31" />
+            <path
+               d="m 862.46,119.28 -7.01,3.48 1.76,-3.49 -1.75,-3.51 z"
+               class="color_fill"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path32" />
+          </g>
+        </g>
+        <text
+           xml:space="preserve"
+           class="color_fill"
+           style="font-weight:bold;font-size:14px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';writing-mode:lr-tb;direction:ltr;stroke-linejoin:round;stroke-opacity:1"
+           x="1279.2872"
+           y="331.25394"
+           id="text36-59-0"
+           inkscape:label="text36-59"
+           transform="translate(-71.849198,-18.907684)"><tspan
+             sodipodi:role="line"
+             id="tspan36-2-6"
+             x="1279.2872"
+             y="331.25394"
+             style="fill-opacity:1">COMPARE N0</tspan></text>
+        <g
+           data-cell-id="YChXWHXjWFrbvS4YKcb_-3"
+           id="g43"
+           transform="matrix(0.78969479,0,0,1.0193369,14.428497,-23.120642)">
+          <g
+             transform="translate(0.5,0.5)"
+             id="g40">
+            <rect
+               x="355"
+               y="140"
+               width="120"
+               height="80"
+               fill="none"
+               class="color_stroke"
+               pointer-events="all"
+               id="rect39" />
+          </g>
+        </g>
+        <g
+           data-cell-id="YChXWHXjWFrbvS4YKcb_-5"
+           id="g51"
+           transform="matrix(0.81863618,0,0,1.0142623,95.145478,-20.969554)">
+          <g
+             transform="translate(0.5,0.5)"
+             id="g48">
+            <rect
+               x="847"
+               y="141"
+               width="120"
+               height="80"
+               fill="none"
+               class="color_stroke"
+               pointer-events="all"
+               id="rect47" />
+          </g>
+        </g>
+        <g
+           data-cell-id="YChXWHXjWFrbvS4YKcb_-73"
+           id="g71"
+           transform="matrix(0.78783841,0,0,0.96233768,207.4064,-6.8314252)">
+          <g
+             transform="translate(0.5,0.5)"
+             id="g68">
+            <rect
+               x="1266.0181"
+               y="375.01785"
+               width="119.96396"
+               height="85.244148"
+               fill="none"
+               class="color_stroke"
+               pointer-events="all"
+               id="rect67"
+               style="stroke-width:1.0321" />
+          </g>
+        </g>
+        <g
+           data-cell-id="YChXWHXjWFrbvS4YKcb_-79"
+           id="g75"
+           transform="matrix(0.78135799,0,0,1.0593373,19.395711,-45.18989)">
+          <g
+             transform="matrix(0.99983875,0,0,1.0338489,0.56659678,-15.249261)"
+             id="g72">
+            <rect
+               x="353"
+               y="375"
+               width="120"
+               height="90"
+               fill="none"
+               class="color_stroke"
+               pointer-events="all"
+               id="rect71" />
+          </g>
+          <g
+             id="g74" />
+        </g>
+        <g
+           data-cell-id="YChXWHXjWFrbvS4YKcb_-90"
+           id="g85"
+           transform="translate(-71.849198,-18.907684)">
+          <g
+             transform="translate(0.5,0.5)"
+             id="g84">
+            <path
+               d="M 355,325 H 286 V 90 h 62.63"
+               fill="none"
+               class="color_stroke"
+               stroke-miterlimit="10"
+               pointer-events="stroke"
+               id="path83" />
+            <path
+               d="m 353.88,90 -7,3.5 1.75,-3.5 -1.75,-3.5 z"
+               class="color_fill"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path84" />
+          </g>
+        </g>
+        <g
+           data-cell-id="YChXWHXjWFrbvS4YKcb_-101"
+           id="g103"
+           transform="translate(-71.849198,-18.907684)">
+          <g
+             transform="translate(0.5,0.5)"
+             id="g102">
+            <path
+               d="M 8,21 H 175"
+               fill="none"
+               class="color_stroke"
+               stroke-miterlimit="10"
+               pointer-events="stroke"
+               id="path101" />
+          </g>
+        </g>
+        <g
+           data-cell-id="YChXWHXjWFrbvS4YKcb_-102"
+           id="g105"
+           transform="translate(-71.849198,-18.907684)">
+          <g
+             transform="translate(0.5,0.5)"
+             id="g104">
+            <path
+               d="M 175,21 V 55.63"
+               fill="none"
+               class="color_stroke"
+               stroke-miterlimit="10"
+               pointer-events="stroke"
+               id="path103" />
+            <path
+               d="m 175,60.88 -3.5,-7 3.5,1.75 3.5,-1.75 z"
+               class="color_fill"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path104" />
+          </g>
+        </g>
+        <g
+           data-cell-id="YChXWHXjWFrbvS4YKcb_-109"
+           id="g111"
+           transform="translate(-71.849198,-18.907684)">
+          <g
+             transform="translate(0.5,0.5)"
+             id="g110">
+            <path
+               d="M 8,84 V 21"
+               fill="none"
+               class="color_stroke"
+               stroke-miterlimit="10"
+               pointer-events="stroke"
+               id="path109" />
+          </g>
+        </g>
+        <g
+           data-cell-id="YChXWHXjWFrbvS4YKcb_-110"
+           id="g113"
+           transform="translate(-71.849198,-18.907684)">
+          <g
+             transform="translate(0.5,0.5)"
+             id="g112">
+            <path
+               d="M 8,84 66.63,83.1"
+               fill="none"
+               class="color_stroke"
+               stroke-miterlimit="10"
+               pointer-events="stroke"
+               id="path111" />
+            <path
+               d="m 71.88,83.02 -6.94,3.6 1.69,-3.52 -1.8,-3.47 z"
+               class="color_fill"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path112" />
+          </g>
+        </g>
+        <g
+           data-cell-id="YChXWHXjWFrbvS4YKcb_-111"
+           id="g115"
+           transform="translate(-71.849198,-18.907684)">
+          <g
+             transform="translate(0.5,0.5)"
+             id="g114">
+            <path
+               d="M 29,158 74.5,112.5"
+               fill="none"
+               class="color_stroke"
+               stroke-miterlimit="10"
+               pointer-events="stroke"
+               id="path113" />
+            <path
+               d="m 78.21,108.79 -2.48,7.43 -1.23,-3.72 -3.72,-1.23 z"
+               class="color_fill"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path114" />
+          </g>
+        </g>
+        <g
+           data-cell-id="G5VNRWEEcDZbfrEF6txf-1"
+           id="g125"
+           transform="translate(-71.849198,-18.907684)">
+          <g
+             transform="translate(0.5,0.5)"
+             id="g124">
+            <path
+               d="M 457.43,296.72 457.38,265 h -84.76 l -0.04,25.35"
+               fill="none"
+               class="color_stroke"
+               stroke-miterlimit="10"
+               pointer-events="stroke"
+               id="path123" />
+            <path
+               d="m 372.58,295.6 -3.49,-7.01 3.49,1.76 3.51,-1.75 z"
+               class="color_fill"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path124" />
+          </g>
+        </g>
+        <g
+           data-cell-id="G5VNRWEEcDZbfrEF6txf-7"
+           id="g127"
+           transform="translate(-71.849198,-18.907684)">
+          <g
+             transform="translate(0.5,0.5)"
+             id="g126">
+            <path
+               d="m 948.43,119.28 344.57,-0.03 0.05,164.42"
+               fill="none"
+               class="color_stroke"
+               stroke-miterlimit="10"
+               pointer-events="stroke"
+               id="path125" />
+            <path
+               d="m 1293.05,288.92 -3.5,-7 3.5,1.75 3.5,-1.75 z"
+               class="color_fill"
+               stroke-miterlimit="10"
+               pointer-events="all"
+               id="path126" />
+          </g>
+        </g>
+        <g
+           id="g36">
+          <path
+             class="color_stroke"
+             style="fill:none;stroke-width:1;stroke-linejoin:round;stroke-opacity:1"
+             d="M 883.24128,49.40643 H 1272.7376"
+             id="path4" />
+          <path
+             class="color_fill"
+             style="stroke-width:1;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#Triangle)"
+             d="M 1272.25,49.461259 V 265.2135"
+             id="path5" />
+        </g>
+        <text
+           xml:space="preserve"
+           class="color_fill"
+           style="font-size:12px;font-family:Sans;-inkscape-font-specification:Sans;writing-mode:lr-tb;direction:ltr;fill-opacity:1;stroke-width:1;stroke-linejoin:round;stroke-opacity:1"
+           x="1267.5605"
+           y="350.60699"
+           id="text37-9"
+           transform="scale(0.95440547,1.0477727)"
+           inkscape:label="compare-n0-table"><tspan
+             sodipodi:role="line"
+             id="tspan37-1"
+             x="1267.5605"
+             y="350.60699"
+             style="stroke-width:1">H0_ENABLE = 1</tspan><tspan
+             sodipodi:role="line"
+             x="1267.5605"
+             y="365.60699"
+             id="tspan38-2"
+             style="stroke-width:1">H1_ENABLE = 0</tspan><tspan
+             sodipodi:role="line"
+             x="1267.5605"
+             y="380.60699"
+             id="tspan40-0"
+             style="stroke-width:1">H2_ENABLE = 0</tspan><tspan
+             sodipodi:role="line"
+             x="1267.5605"
+             y="395.60699"
+             id="tspan41-9"
+             style="stroke-width:1">N_SELECT = 01</tspan><tspan
+             sodipodi:role="line"
+             x="1267.5605"
+             y="410.60699"
+             id="tspan42-3"
+             style="stroke-width:1">RNG_LOAD = 0</tspan></text>
+        <text
+           xml:space="preserve"
+           class="color_fill"
+           style="font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';writing-mode:lr-tb;direction:ltr;fill-opacity:1;stroke-width:1;stroke-linejoin:round;stroke-opacity:1"
+           x="313.77789"
+           y="127.27388"
+           id="text37-9-7"
+           transform="scale(0.95639792,1.0455899)"
+           inkscape:label="compare-n2-table"><tspan
+             sodipodi:role="line"
+             id="tspan37-1-3"
+             x="313.77789"
+             y="127.27388"
+             style="stroke-width:1">H0_ENABLE = 0</tspan><tspan
+             sodipodi:role="line"
+             x="313.77789"
+             y="142.27388"
+             id="tspan38-2-6"
+             style="stroke-width:1">H1_ENABLE = 0</tspan><tspan
+             sodipodi:role="line"
+             x="313.77789"
+             y="157.27388"
+             id="tspan40-0-1"
+             style="stroke-width:1">H2_ENABLE = 1</tspan><tspan
+             sodipodi:role="line"
+             x="313.77789"
+             y="172.27388"
+             id="tspan41-9-2"
+             style="stroke-width:1">N_SELECT = 10</tspan><tspan
+             sodipodi:role="line"
+             x="313.77789"
+             y="187.27388"
+             id="tspan42-3-9"
+             style="stroke-width:1">RNG_LOAD = 0</tspan></text>
+        <text
+           xml:space="preserve"
+           class="color_fill"
+           style="font-size:12px;font-family:Sans;-inkscape-font-specification:Sans;writing-mode:lr-tb;direction:ltr;fill-opacity:1;stroke-width:1;stroke-linejoin:round;stroke-opacity:1"
+           x="830.62982"
+           y="129.49146"
+           id="text37-9-7-4"
+           transform="scale(0.95639792,1.0455899)"
+           inkscape:label="compare-n1-table"><tspan
+             sodipodi:role="line"
+             id="tspan37-1-3-7"
+             x="830.62982"
+             y="129.49146"
+             style="stroke-width:1">H0_ENABLE = 0</tspan><tspan
+             sodipodi:role="line"
+             x="830.62982"
+             y="144.49146"
+             id="tspan38-2-6-8"
+             style="stroke-width:1">H1_ENABLE = 1</tspan><tspan
+             sodipodi:role="line"
+             x="830.62982"
+             y="159.49146"
+             id="tspan40-0-1-4"
+             style="stroke-width:1">H2_ENABLE = 0</tspan><tspan
+             sodipodi:role="line"
+             x="830.62982"
+             y="174.49146"
+             id="tspan41-9-2-5"
+             style="stroke-width:1">N_SELECT = 11</tspan><tspan
+             sodipodi:role="line"
+             x="830.62982"
+             y="189.49146"
+             id="tspan42-3-9-0"
+             style="stroke-width:1">RNG_LOAD = 0</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     data-cell-id="YChXWHXjWFrbvS4YKcb_-88"
+     id="g89"
+     transform="translate(-8,-8.8305131)"
+     inkscape:label="wait-state">
+    <g
+       transform="translate(0.5,0.5)"
+       id="g86">
+      <ellipse
+         cx="415"
+         cy="325"
+         rx="60"
+         ry="40"
+         fill="transparent"
+         class="color_stroke"
+         pointer-events="all"
+         id="ellipse85"
+         style="fill:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       class="color_fill"
+       style="font-weight:bold;font-size:14px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';writing-mode:lr-tb;direction:ltr;stroke-linejoin:round;stroke-opacity:1"
+       x="374.4653"
+       y="330.33731"
+       id="text36-5"><tspan
+         sodipodi:role="line"
+         id="tspan36-3"
+         x="374.4653"
+         y="330.33731"
+         style="fill-opacity:1">WAIT ENTER</tspan></text>
+  </g>
+  <g
+     data-cell-id="YChXWHXjWFrbvS4YKcb_-98"
+     id="g101"
+     transform="translate(-8,-8.8305131)"
+     inkscape:label="reset-state">
+    <g
+       transform="translate(0.5,0.5)"
+       id="g98">
+      <ellipse
+         cx="132"
+         cy="90"
+         rx="60"
+         ry="40"
+         fill="transparent"
+         class="color_stroke"
+         style="fill:none"
+         pointer-events="all"
+         id="ellipse97" />
+    </g>
+    <text
+       xml:space="preserve"
+       class="color_fill"
+       style="font-weight:bold;font-size:14px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';writing-mode:lr-tb;direction:ltr;stroke-linejoin:round;stroke-opacity:1"
+       x="109.89988"
+       y="95.349274"
+       id="text36"><tspan
+         sodipodi:role="line"
+         id="tspan36"
+         x="109.89988"
+         y="95.349274"
+         style="fill-opacity:1">RESET</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     class="color_fill"
+     style="font-size:12px;font-family:Sans;-inkscape-font-specification:Sans;writing-mode:lr-tb;direction:ltr;fill-opacity:1;stroke-width:1;stroke-linejoin:round;stroke-opacity:1"
+     x="381.67825"
+     y="357.08688"
+     id="text37"
+     transform="scale(0.95440547,1.0477727)"
+     inkscape:label="wait-table"><tspan
+       sodipodi:role="line"
+       id="tspan37"
+       x="381.67825"
+       y="357.08688"
+       style="stroke-width:1">H0_ENABLE = 0</tspan><tspan
+       sodipodi:role="line"
+       x="381.67825"
+       y="372.08688"
+       id="tspan38"
+       style="stroke-width:1">H1_ENABLE = 0</tspan><tspan
+       sodipodi:role="line"
+       x="381.67825"
+       y="387.08688"
+       id="tspan39"
+       style="stroke-width:1">H2_ENABLE = 0</tspan><tspan
+       sodipodi:role="line"
+       x="381.67825"
+       y="402.08688"
+       id="tspan40"
+       style="stroke-width:1">H_SELECT = 00</tspan><tspan
+       sodipodi:role="line"
+       x="381.67825"
+       y="417.08688"
+       id="tspan41"
+       style="stroke-width:1">N_SELECT = 01</tspan><tspan
+       sodipodi:role="line"
+       x="381.67825"
+       y="432.08688"
+       id="tspan42"
+       style="stroke-width:1">RNG_LOAD = 0</tspan></text>
+  <g
+     data-cell-id="YChXWHXjWFrbvS4YKcb_-88"
+     id="g89-5"
+     transform="translate(187,-6.8184372)"
+     inkscape:label="score-state">
+    <g
+       transform="translate(0.5,0.5)"
+       id="g86-3">
+      <ellipse
+         cx="415"
+         cy="325"
+         rx="60"
+         ry="40"
+         fill="transparent"
+         class="color_stroke"
+         pointer-events="all"
+         id="ellipse85-5"
+         style="fill:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       class="color_fill"
+       style="font-weight:bold;font-size:14px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';writing-mode:lr-tb;direction:ltr;stroke-linejoin:round;stroke-opacity:1"
+       x="374.4653"
+       y="330.33731"
+       id="text36-5-6"><tspan
+         sodipodi:role="line"
+         x="374.4653"
+         y="330.33731"
+         style="fill-opacity:1"
+         id="tspan14">WAIT SCORE</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     class="color_fill"
+     style="font-size:12px;font-family:Sans;-inkscape-font-specification:Sans;writing-mode:lr-tb;direction:ltr;fill-opacity:1;stroke-width:1;stroke-linejoin:round;stroke-opacity:1"
+     x="585.99396"
+     y="357.09839"
+     id="text37-91"
+     transform="scale(0.95440547,1.0477727)"
+     inkscape:label="score-table"><tspan
+       sodipodi:role="line"
+       id="tspan37-2"
+       x="585.99396"
+       y="357.09839"
+       style="stroke-width:1">H0_ENABLE = 0</tspan><tspan
+       sodipodi:role="line"
+       x="585.99396"
+       y="372.09839"
+       id="tspan38-7"
+       style="stroke-width:1">H1_ENABLE = 0</tspan><tspan
+       sodipodi:role="line"
+       x="585.99396"
+       y="387.09839"
+       id="tspan39-0"
+       style="stroke-width:1">H2_ENABLE = 0</tspan><tspan
+       sodipodi:role="line"
+       x="585.99396"
+       y="402.09839"
+       id="tspan40-9"
+       style="stroke-width:1">H_SELECT = 00</tspan><tspan
+       sodipodi:role="line"
+       x="585.99396"
+       y="417.09839"
+       id="tspan41-3"
+       style="stroke-width:1">N_SELECT = 01</tspan><tspan
+       sodipodi:role="line"
+       x="585.99396"
+       y="432.09839"
+       id="tspan42-6"
+       style="stroke-width:1">RNG_LOAD = 0</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';writing-mode:lr-tb;direction:ltr;fill-opacity:0.8;stroke-linejoin:round"
+     class="color_fill"
+     x="187.89542"
+     y="53.327915"
+     id="Reset cont"
+     inkscape:label="reset-cont"><tspan
+   id="tspan132"
+   x="187.89542"
+   y="53.327915"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill-opacity:1;stroke-opacity:1"
+   id="tspan133">ENTER</tspan> / <tspan
+   style="fill:#0101ff;fill-opacity:1;stroke:#0101ff;stroke-opacity:1"
+   id="tspan134">RNG_LOAD</tspan> = <tspan
+   style="fill-opacity:1"
+   id="tspan136">0</tspan></tspan>	    </text>
+  <text
+     xml:space="preserve"
+     class="color_fill"
+     style="font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';writing-mode:lr-tb;direction:ltr;fill-opacity:0.8;stroke-linejoin:round"
+     x="7.2460794"
+     y="9.3919907"
+     id="Reset loop"
+     inkscape:label="reset-loop"><tspan
+   id="tspan4"
+   x="7.2460794"
+   y="9.3919907"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+   style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-opacity:1"
+   id="tspan135">not</tspan> <tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill-opacity:1;stroke-opacity:1"
+   id="tspan1">ENTER</tspan> / <tspan
+   style="fill:#0101ff;fill-opacity:1;stroke:#0101ff;stroke-opacity:1"
+   id="tspan2">RNG_LOAD</tspan> = <tspan
+   style="fill-opacity:1"
+   id="tspan3">1</tspan></tspan>		</text>
+  <text
+     xml:space="preserve"
+     class="color_fill"
+     style="font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';writing-mode:lr-tb;direction:ltr;fill-opacity:0.8;stroke-linejoin:round"
+     x="383.03818"
+     y="252.98174"
+     id="Reset loop-9"
+     inkscape:label="enter-loop"><tspan
+       id="tspan4-0"
+       x="383.03818"
+       y="252.98174"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+   style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-opacity:1"
+   id="tspan135-8">not</tspan> <tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill-opacity:1;stroke-opacity:1"
+   id="tspan1-8">ENTER</tspan> </tspan></text>
+  <text
+     xml:space="preserve"
+     class="color_fill"
+     style="font-size:16px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';writing-mode:lr-tb;direction:ltr;fill-opacity:0.8;stroke-linejoin:round"
+     x="292.73254"
+     y="313.93839"
+     id="Reset loop-9-8"
+     inkscape:label="enter-cont"><tspan
+       id="tspan4-0-5"
+       x="292.73254"
+       y="313.93839"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill-opacity:1;stroke-opacity:1">ENTER</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Bold Italic';writing-mode:lr-tb;direction:ltr;stroke-linejoin:round"
+     class="color_fill"
+     x="825.02667"
+     y="310.49969"
+     id="text5-7-7"
+     inkscape:label="compare-n0-01"><tspan
+       id="tspan5-3-1"
+       x="825.02667"
+       y="310.49969"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill-opacity:1;stroke-opacity:1">(<tspan
+   style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-opacity:1"
+   id="tspan6-6-7">not</tspan> <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   id="tspan7-1-2">EQ_R0</tspan>) <tspan
+   style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-opacity:1"
+   id="tspan8-2-7">and</tspan> ( <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   id="tspan10-3-22">EQ_R2 <tspan
+   style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-opacity:1"
+   id="tspan16-6">or</tspan></tspan> <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   id="tspan13-4-1">EQ_R1</tspan>) / <tspan
+   style="fill:#0101ff;fill-opacity:1;stroke:#0101ff;stroke-opacity:1"
+   id="tspan15-7-0">H_SELECT</tspan> = 01</tspan></text>
+  <text
+     xml:space="preserve"
+     class="color_fill"
+     style="font-style:italic;font-weight:bold;font-size:14px;font-family:Sans;-inkscape-font-specification:'Sans, Bold Italic';writing-mode:lr-tb;direction:ltr;stroke-linejoin:round"
+     x="906.02667"
+     y="339.12784"
+     id="text5-7-5"
+     inkscape:label="compare-n0-10"><tspan
+       id="tspan5-3-9"
+       x="906.02667"
+       y="339.12784"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill-opacity:1;stroke-opacity:1"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   id="tspan13-4-7">EQ_R0 </tspan>/ <tspan
+   style="fill:#0101ff;fill-opacity:1;stroke:#0101ff;stroke-opacity:1"
+   id="tspan15-7-7">H_SELECT</tspan> = 10</tspan></text>
+  <text
+     xml:space="preserve"
+     class="color_fill"
+     style="font-style:italic;font-weight:bold;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Bold Italic';writing-mode:lr-tb;direction:ltr;stroke-linejoin:round"
+     x="987.95697"
+     y="104.97696"
+     id="text5-7-49"
+     inkscape:label="compare-n1-10"><tspan
+       id="tspan5-3-2"
+       x="987.95697"
+       y="104.97696"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill-opacity:1;stroke-opacity:1"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   id="tspan10-3-2">EQ_R1</tspan> / <tspan
+   style="fill:#0101ff;fill-opacity:1;stroke:#0101ff;stroke-opacity:1"
+   id="tspan15-7-49">H_SELECT</tspan> = 10</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-weight:bold;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Bold Italic';writing-mode:lr-tb;direction:ltr;stroke-linejoin:round"
+     class="color_fill"
+     x="964.7536"
+     y="77.566277"
+     id="text5-7-4"
+     inkscape:label="compare-n1-01"><tspan
+       id="tspan5-3-3"
+       x="964.7536"
+       y="77.566277"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill-opacity:1;stroke-opacity:1">(<tspan
+   style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-opacity:1"
+   id="tspan6-6-0">not</tspan> <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   id="tspan7-1-7">EQ_R1</tspan>) <tspan
+   style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-opacity:1"
+   id="tspan8-2-8">and</tspan> (<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   id="tspan10-3-6">EQ_R2 <tspan
+   style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-opacity:1"
+   id="tspan16-8">or</tspan></tspan> <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   id="tspan13-4-8">EQ_R0</tspan>) / <tspan
+   style="fill:#0101ff;fill-opacity:1;stroke:#0101ff;stroke-opacity:1"
+   id="tspan15-7-4">H_SELECT</tspan> = 01</tspan></text>
+  <text
+     xml:space="preserve"
+     class="color_fill"
+     style="font-style:italic;font-weight:bold;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Bold Italic';writing-mode:lr-tb;direction:ltr;stroke-linejoin:round"
+     x="946.00842"
+     y="54.559582"
+     id="text5-54"
+     inkscape:label="compare-n1-00"><tspan
+       id="tspan5-7"
+       x="946.00842"
+       y="54.559582"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill-opacity:1;stroke-opacity:1">(<tspan
+   style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-opacity:1"
+   id="tspan6-65">not</tspan> <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   id="tspan7-69">EQ_R1</tspan>) <tspan
+   style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-opacity:1"
+   id="tspan8-3">and</tspan> (<tspan
+   style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-opacity:1"
+   id="tspan9-7">not</tspan> <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   id="tspan10-4">EQ_R2</tspan>) <tspan
+   style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-opacity:1"
+   id="tspan11-5">and</tspan> (<tspan
+   style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-opacity:1"
+   id="tspan12-2">not</tspan> <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   id="tspan13-5">EQ_R0</tspan>) / <tspan
+   style="fill:#0101ff;fill-opacity:1;stroke:#0101ff;stroke-opacity:1"
+   id="tspan15-4">H_SELECT</tspan> = 00</tspan></text>
+  <text
+     xml:space="preserve"
+     class="color_fill"
+     style="font-style:italic;font-weight:bold;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Bold Italic';writing-mode:lr-tb;direction:ltr;stroke-linejoin:round"
+     x="527.79327"
+     y="106.04028"
+     id="text5-5"
+     inkscape:label="compare-n2-10"><tspan
+       id="tspan5-0"
+       x="527.79327"
+       y="106.04028"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill-opacity:1;stroke-opacity:1"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   id="tspan7-6">EQ_R2 </tspan>/ <tspan
+   style="fill:#0101ff;fill-opacity:1;stroke:#0101ff;stroke-opacity:1"
+   id="tspan15-6">H_SELECT</tspan> = 10</tspan></text>
+  <text
+     xml:space="preserve"
+     class="color_fill"
+     style="font-style:italic;font-weight:bold;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Bold Italic';writing-mode:lr-tb;direction:ltr;stroke-linejoin:round"
+     x="480.56509"
+     y="77.109116"
+     id="text5-7"
+     inkscape:label="compare-n2-01"><tspan
+       id="tspan5-3"
+       x="480.56509"
+       y="77.109116"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill-opacity:1;stroke-opacity:1">(<tspan
+   style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-opacity:1"
+   id="tspan6-6">not</tspan> <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   id="tspan7-1">EQ_R2</tspan>) <tspan
+   style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-opacity:1"
+   id="tspan8-2">and</tspan> (<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   id="tspan10-3">EQ_R1 <tspan
+   style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-opacity:1"
+   id="tspan16">or</tspan></tspan> <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   id="tspan13-4">EQ_R0</tspan>) / <tspan
+   style="fill:#0101ff;fill-opacity:1;stroke:#0101ff;stroke-opacity:1"
+   id="tspan15-7">H_SELECT</tspan> = 01</tspan></text>
+  <text
+     xml:space="preserve"
+     class="color_fill"
+     style="font-style:italic;font-weight:bold;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Bold Italic';writing-mode:lr-tb;direction:ltr;stroke-linejoin:round"
+     x="460.43777"
+     y="48.266258"
+     id="text5"
+     inkscape:label="compare-n2-00"><tspan
+       id="tspan5"
+       x="460.43777"
+       y="48.266258"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill-opacity:1;stroke-opacity:1">(<tspan
+   style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-opacity:1"
+   id="tspan6">not</tspan> <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   id="tspan7">EQ_R2</tspan>) <tspan
+   style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-opacity:1"
+   id="tspan8">and</tspan> (<tspan
+   style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-opacity:1"
+   id="tspan9">not</tspan> <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   id="tspan10">EQ_R1</tspan>) <tspan
+   style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-opacity:1"
+   id="tspan11">and</tspan> (<tspan
+   style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-opacity:1"
+   id="tspan12">not</tspan> <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   id="tspan13">EQ_R0</tspan>) / <tspan
+   style="fill:#0101ff;fill-opacity:1;stroke:#0101ff;stroke-opacity:1"
+   id="tspan15">H_SELECT</tspan> = 00</tspan></text>
+  <text
+     xml:space="preserve"
+     class="color_fill"
+     style="font-style:italic;font-weight:bold;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Bold Italic';writing-mode:lr-tb;direction:ltr;stroke-linejoin:round"
+     x="798.29248"
+     y="282.67935"
+     id="text5-59"
+     inkscape:label="compare-n0-00"><tspan
+       id="tspan5-77"
+       x="798.29248"
+       y="282.67935"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill-opacity:1;stroke-opacity:1">(<tspan
+   style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-opacity:1"
+   id="tspan6-67">not</tspan> <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   id="tspan7-3">EQ_R0</tspan>) <tspan
+   style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-opacity:1"
+   id="tspan8-6">and</tspan> (<tspan
+   style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-opacity:1"
+   id="tspan9-5">not</tspan> <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   id="tspan10-6">EQ_R2</tspan>) <tspan
+   style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-opacity:1"
+   id="tspan11-3">and</tspan> (<tspan
+   style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-opacity:1"
+   id="tspan12-9">not</tspan> <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   id="tspan13-48">EQ_R1</tspan>) / <tspan
+   style="fill:#0101ff;fill-opacity:1;stroke:#0101ff;stroke-opacity:1"
+   id="tspan15-1">H_SELECT</tspan> = 00</tspan></text>
+  <path
+     class="color_stroke"
+     style="fill:none;fill-opacity:1;stroke-width:1;stroke-linejoin:round;marker-start:url(#marker25)"
+     d="m 471.41393,318.35034 h 71.52971"
+     id="path23" />
+  <path
+     class="color_fill"
+     style="fill-opacity:0;stroke-width:1.01001;stroke-linejoin:round"
+     d="m 556.73597,360.86999 h 89.86162"
+     id="path3" />
+  <path
+     class="color_fill"
+     style="fill-opacity:0;stroke-width:1.00918;stroke-linejoin:round"
+     d="m 556.648,458.15533 h 89.80956"
+     id="path3-5" />
+  <path
+     class="color_fill"
+     style="fill-opacity:0;stroke-width:1.03835;stroke-linejoin:round"
+     d="m 646.38475,360.37 v 98.29043"
+     id="path6" />
+  <path
+     class="color_fill"
+     style="fill-opacity:0;stroke-width:1.03824;stroke-linejoin:round"
+     d="m 557.16171,360.3643 v 98.29582"
+     id="path6-2" />
+</svg>

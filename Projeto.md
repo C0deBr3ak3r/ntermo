@@ -28,30 +28,30 @@ Mesmo havendo repetição, as opções são mutuamente exclusivas.
 
 ## FSM Controladora
 
-### Com WAIT LOAD
+### Com WAIT SCORE
 
-O estado "WAIT LOAD" é provavelmente inútil, mas uma versão sem ele não foi
+O estado "WAIT SCORE" é provavelmente inútil, mas uma versão sem ele não foi
 testada na placa
 
 Legenda:
 
 - Vermelho: operações lógicas
 - Azul: saídas variáveis
-- Negrito: entradas
-- Negrito e itálico: entradas de interface com a placa
+- Negrito: entradas do caminho de dados
+- Itálico: entradas de interface com a placa
 
-![FSM Controladora com WAIT LOAD](./controller-load.svg)
+![FSM Controladora com WAIT SCORE](./controller-score.svg)
 
-### Sem WAIT LOAD
+### Sem WAIT SCORE
 
 Legenda:
 
 - Vermelho: operações lógicas
 - Azul: saídas variáveis
-- Negrito: entradas
-- Negrito e itálico: entradas de interface com a placa
+- Negrito: entradas do caminho de dados
+- Itálico: entradas de interface com a placa
 
-![FSM Controladora sem WAIT LOAD](./controller-no-load.svg)
+![FSM Controladora sem WAIT SCORE](./controller-no-score.svg)
 
 ## Caminho de dados
 
@@ -62,4 +62,4 @@ Legenda:
 - Itálico: sinais de saída
 - Roxo: apenas uma maneira de diferenciar entre os fios
 
-![Caminho de Dados](./datapath.svg)
+<img src="./datapath.svg" alt="Caminho de Dados" width="auto" height="auto">

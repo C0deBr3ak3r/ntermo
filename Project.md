@@ -28,30 +28,30 @@ Even with repetitions, the options are mutually exclusives.
 
 ## Controller FSM
 
-### With WAIT LOAD
+### With WAIT SCORE
 
-The "WAIT LOAD" state is probably useless, but a version without it wasn't
+The "WAIT SCORE" state is probably useless, but a version without it wasn't
 tested in a board
 
 Legend:
 
 - Red: logical operations
 - Blue: variable outputs
-- Bold: inputs
-- Bold and italic: board interface inputs
+- Bold: datapath inputs
+- Italic: board interface inputs
 
-![Controller FSM with load state](./controller-load.svg)
+![Controller FSM with WAIT SCORE](./controller-score.svg)
 
-### Without WAIT LOAD
+### Without WAIT SCORE
 
 Legend:
 
 - Red: logical operations
 - Blue: variable outputs
-- Bold: inputs
-- Bold and italic: board interface inputs
+- Bold: datapath inputs
+- Italic: board interface inputs
 
-![Controller FSM without load state](./controller-no-load.svg)
+![Controller FSM without WAIT SCORE](./controller-no-score.svg)
 
 ## Datapath
 
@@ -62,4 +62,4 @@ Legend:
 - Italic: output signals
 - Purple: just a way to differentiate between the wires
 
-![Datapath](./datapath.svg)
+<img src="./datapath.svg" alt="Datapath" width="auto" height="auto">
