@@ -1,0 +1,8 @@
+*.svo
+ntermo.vcd
+dsim.log
+dsim.env
+dvlcom.env
+dvlcom.log
+metrics.db
+dsim_work
